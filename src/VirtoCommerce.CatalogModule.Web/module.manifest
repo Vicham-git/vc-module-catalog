@@ -22,7 +22,7 @@
   <owners>
     <owner>Virto Commerce</owner>
   </owners>
-  <projectUrl>https://github.com/VirtoCommerce/vc-module-catalog</projectUrl>
+  <projectUrl>https://github.com/Vicham-git/vc-module-catalog</projectUrl>
   <iconUrl>Modules/$(VirtoCommerce.Catalog)/Content/logo.png</iconUrl>
   <requireLicenseAcceptance>false</requireLicenseAcceptance>
   <releaseNotes>Third version.</releaseNotes>
